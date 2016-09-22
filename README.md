@@ -1,4 +1,4 @@
-# Hannay Mohanna - CP365 portfolio
+# CP365 portfolio
 
 Mario Agent: Passes level 0. Maybe level 1.
 
