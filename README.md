@@ -10,7 +10,7 @@ Othello bot: pretty stupid tbh, didn't win anything (may make some good moves so
 
 Linear regression:does OK,  dv = DJIA numbers, iv = avg temp/high temp.
 
-ANN: seems to work OK, reports around 96-97%, does breast cancer dataset + knows a good glass of white when it sees one.
+ANN: 1 hidden layer, seems to work OK, reports around 96-97%, does breast cancer dataset + knows a good glass of white when it sees one.
 
 Clustering: seems to cluster correctly, takes a minute or so to print clusters.
 
