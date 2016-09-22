@@ -8,7 +8,7 @@ Genetic Algorithm: immitates the picture quite decently in under 1000 generation
 
 Othello bot: pretty stupid tbh, didn't win anything (may make some good moves sometimes though).
 
-*Linear regression:does OK,  dv = DJIA numbers, iv = avg temp/high temp.
+Linear regression:does OK,  dv = DJIA numbers, iv = avg temp/high temp.
 
 ANN: seems to work OK, reports around 96-97%, does breast cancer dataset + knows a good glass of white when it sees one.
 
