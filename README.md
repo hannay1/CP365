@@ -4,7 +4,7 @@ Mario Agent: Passes level 0. Maybe level 1.
 
 Searh_Astar:  DFS, BFS, IDS, and A* bots can all take a 3x3 board (run SlidingPuzzle with no args).
 
-Genetic Algorithm: immitates the picture quite decently in under 1000 generations.
+Genetic Algorithm: immitates the picture quite decently in under 10000 generations.
 
 Othello bot: pretty stupid tbh, didn't win anything (may make some good moves sometimes though).
 
